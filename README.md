@@ -1,145 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ahmad Faour</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Cloud AI Solutions Architect</h3>
+<h1 align="center">👋 Hello World, I'm Ahmad Faour</h1>
+<h3 align="center">🤖 AI Engineer | 🖥 Full-Stack Developer | ☁️ Cloud AI Solutions Architect</h3>
 
 <p align="center">
-  <a href="https://github.com/AhmadFaour9?tab=followers">GitHub Followers</a> •
-  <a href="mailto:ahmadfaour928@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/ahmad-faour-052b20168">LinkedIn</a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahmadfaour9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadfaour9" />
+  <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ahmadfaour928@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[GitHub URL]"><img src="https://img.shields.io/github/followers/AhmadFaour9?label=Follow&style=social"></a>
+  <a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </p>
 
 ---
 
-## 🧠 Who Am I?
-I'm an **AI Engineer** with a passion for building autonomous systems, fine-tuning LLMs, and delivering production-ready AI solutions that spark real-world impact. With hands-on experience across MLOps, cloud deployment, and cutting-edge deep learning, I architect intelligent apps that **don't just work — they think**.
+### 🧠 Who Am I?
+**AI Engineer** passionate about building autonomous systems and production-ready AI solutions. Specializing in:
+- LLM Fine-tuning & Generative Models (Transformers, RLHF)
+- MLOps & Cloud Deployment (AWS/GCP)
+- Full-Stack Development (React + ASP.NET Core)
+- NLP Architectures & Prompt Engineering
 
-> “Code that adapts, learns, and evolves — that's my craft.”
-
-In addition to my AI focus, I’m also a **Software Engineer** specialized in Information Technology. I have extensive experience in front-end development using **React.js** and in designing and developing back-end services using **Express.js** and **Node.js**. I’m well-versed in managing databases such as **MongoDB**, **SQL** Server, and more.
-
----
-
-## 🚀 What I Do
-- **AI Development & Research**  
-  *LLMs, RLHF, Transformers, Generative Models*
-- **Full-Stack Development**  
-  *React.js, Node.js, ASP.NET Core*
-- **Cloud Engineering on AWS & GCP**  
-  *Deploying, scaling, MLOps pipeline*
-- **MLOps**  
-  *Docker, CI/CD, Model Deployment*
-- **Prompt Engineering + NLP**  
-  *(LangChain, Hugging Face)*
+> *"Code that adapts, learns, and evolves — that's my craft."*
 
 ---
 
-## 💼 Current Roles
-- **AI Engineer** – Reality AI Lab (Remote)  
-- **AI Engineer** – NVSSoft (Riyadh)  
-- **Data Scientist Intern** – Darrebni (Remote)  
-- **Freelance AI Projects** – Freelancer.com  
+### 🚀 Technical Arsenal
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+**ML/DL Frameworks:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
-## ⚙️ Tech Toolbox
-- **Languages:**  
-  Python, JavaScript, C#, SQL, MATLAB  
-- **AI/ML Frameworks:**  
-  TensorFlow, PyTorch, scikit-learn, ONNX  
-- **Full-Stack Frameworks:**  
-  ASP.NET, Flask, React, Django, Next.js  
-- **Databases:**  
-  PostgreSQL, MongoDB, MySQL, SQL Server  
-- **Tools & Platforms:**  
-  Docker, VS Code, Jupyter, Git, Firebase, PythonAnywhere, Postman, Figma  
-- **Concepts:**  
-  MLOps, Model Optimization, NLP, CV, LLMs, Cloud AI  
+### 🏆 Signature Projects
 
-> Currently learning **Next.js** & **Django** frameworks
+#### 🔊 Dialect-Aware AI Assistant
+- MARBERTv2 + Whisper v3 pipeline
+- Real-time inference with Flask & React  
+[![Demo](https://img.shields.io/badge/Live_Demo-FF6F00?style=for-the-badge)](Demo URL)
 
----
+#### ✍ Arabic Handwriting Recognition
+- ONNX-optimized model @85% accuracy
+- Flask deployment with React frontend
 
-## 🏆 Notable Projects
-- **AI Assistant with Dialect Recognition**  
-  Live Whisper v3 + MARBERTv2 pipeline for speech-to-text and dialect classification.  
-  Real-time inference via Flask + React.  
-  [Demo (Coming Soon)]()
-
-- **Arabic Handwriting Recognition**  
-  Deployed model via ONNX + Flask achieving 85% accuracy on handwritten Arabic characters.
-
-- **AI Verification System for Medical Prescriptions**  
-  GAN + CRNN system with 92% accuracy. Validates cardiologist prescriptions with seal detection.
-
-- **AI-Powered HR Matchmaking Platform**  
-  Built with NLP, KNN, and Django. Achieved 98% resume-job match accuracy using Kaggle datasets.
+#### 🧠 AI-Powered HR Matchmaking
+- NLP/KNN hybrid system (98% accuracy)
+- Django backend + Kaggle integration
 
 ---
 
-## 🎓 Education & Certifications
-- **B.Sc. in IT Engineering** – University of Kalamoon *(Second in Class)*  
-- **Generative AI with LLMs** – AWS + Coursera  
-  *LoRA, Prompt Tuning, Dialogue Summarization, RLHF*  
-- **Data Science & AI Projects** – Freelance + Internship Labs  
+### 💼 Professional Journey
+| Role | Organization | Tech Stack |
+|------|--------------|------------|
+| **AI Engineer** | Reality AI Lab | PyTorch, AWS SageMaker, LangChain |
+| **AI Solutions Architect** | NVSSoft | GCP, Transformers, CI/CD Pipelines |
+| **ML Freelancer** | Freelancer.com | LLM Fine-tuning, MLOps Consulting |
 
 ---
 
-## 💬 Ask Me About
-- React.js  
-- Any question about **Machine Learning** or **Deep Learning**  
+### 📚 Education & Credentials
+- **B.Sc IT Engineering** - University of Kalamoon (2nd in Class)
+- **AWS Certified** - Generative AI with LLMs (Coursera)
+- **NLP Specialization** - Advanced Prompt Engineering
 
 ---
 
-## ⚡ Fun Fact
-> “I don’t just build AI—I teach it to think creatively.”  
-> Always learning to be happy!
+### 📊 GitHub Analytics
 
----
-
-## 📬 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/ahmad-faour-052b20168" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-faour-052b20168" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/ahmoodyfaour" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmoody faour" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/ahmadfaourabusaleh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadfaourabusaleh" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/ahmad_faour9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ahmad_faour9" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ahmad faour" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmad faour" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/ahmad_faour" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmad_faour" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ahmadfaour" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmadfaour" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmadFaour9&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&theme=vision-friendly-dark">
 </p>
 
 ---
 
-## 🔥 My GitHub at a Glance
+### 💬 Let's Connect!
+- **⚡ Innovation Catalyst:** Currently exploring multi-agent LLM systems
+- **🌍 Open for:** AI architecture roles & cutting-edge R&D collaborations
+- **📫 Reach me:** [Email](mailto:ahmadfaour928@gmail.com) | [LinkedIn](LinkedIn URL)
 
-<p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ahmadfaour9" alt="GitHub Trophies" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadfaour9&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadfaour9&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadfaour9&" alt="GitHub Streak" />
-</p>
+*"Let's build AI that doesn't just work — it thinks!"* 🤖✨
