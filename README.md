@@ -1,114 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ahmad Faour</h1>
-<h3 align="center">Software Engineer | AI Enthusiast | Full-Stack Developer</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hello World, I'm <span style="color:#007acc">Ahmad Faour</span></h1>
+<h3 align="center">AI Engineer | Full-Stack Developer | Cloud AI Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadfaour9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/ahmad-faour-052b20168"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white"></a>
+  <a href="mailto:ahmad.saleh.faour@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-informational?logo=gmail&style=flat&logoColor=white"></a>
+  <a href="https://github.com/ahmadfaour9"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmadfaour9?label=Follow%20Me&style=social"></a>
+  <a href="https://alphabetical.pythonanywhere.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-%23FFA500?logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 Who Am I?
 
-I'm a passionate **Software Engineer** with a strong background in **Information Technology** and **Artificial Intelligence**. I specialize in building dynamic and responsive front-end interfaces using **React.js** and robust back-end systems with **Express.js** and **Node.js**.
+I'm an **AI Engineer** with a passion for building **autonomous systems**, fine-tuning **LLMs**, and delivering **production-ready AI solutions** that spark real-world impact. With hands-on experience across **MLOps**, **cloud deployment**, and **cutting-edge deep learning**, I architect intelligent apps that don't just work — they *think*.
 
-With experience in both **SQL** and **NoSQL** databases, I bring a full-stack perspective to software development — from idea to deployment.
-
----
-
-### 💡 What I Bring to the Table
-
-- 🎯 Expertise in **Artificial Intelligence** and **Machine Learning**
-- 💻 Front-end development with **React.js**, **TailwindCSS**
-- ⚙️ Back-end architecture with **Node.js**, **Express.js**
-- 🧠 Data-driven application development with **MongoDB**, **PostgreSQL**, and **MySQL**
-- 📊 Experience with tools like **TensorFlow**, **PyTorch**, **OpenCV**, **Docker**, and more
-- 🧰 Adept at integrating APIs, third-party services, and working in cloud environments
+> "Code that adapts, learns, and evolves — that's my craft."
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🚀 What I Do
 
-<details>
-<summary>Click to expand</summary>
-
-#### Languages & Frameworks
-`JavaScript` `Python` `HTML5` `CSS3` `TypeScript` `C++` `C#`  
-`React.js` `Next.js` `Express.js` `Node.js` `Django` `Flask` `Redux` `Sass`
-
-#### AI/ML & Data Science
-`TensorFlow` `PyTorch` `Scikit-Learn` `Pandas` `NumPy` `OpenCV` `Seaborn`
-
-#### Databases
-`MongoDB` `MySQL` `PostgreSQL` `Microsoft SQL Server`
-
-#### Tools & Platforms
-`Docker` `Git` `Firebase` `Linux` `Postman` `Unity` `Figma` `Adobe Illustrator` `Photoshop`
-
-</details>
+✨ **AI Development & Research**  
+🧠 LLMs, RLHF, Transformers, Generative Models  
+🌐 Full-Stack Development (React + Node/ASP.NET Core)  
+☁️ Cloud Engineering on AWS & GCP  
+⚙️ MLOps: Docker, CI/CD, Model Deployment  
+🗣️ Prompt Engineering + NLP Workflows (LangChain, Hugging Face)
 
 ---
 
-### 📚 Education
+## 💼 Current Roles
 
-- 🎓 Studied **Information Technology** at **University of Kalamoon (UOK)**
-- 🤖 Specialized in **Artificial Intelligence**
-
----
-
-### 🔭 Currently Exploring
-
-- 🧪 **Next.js** for full-stack web applications  
-- 🧩 **Django** for scalable and secure back-end solutions
+- 💡 **AI Engineer** – Reality AI Lab *(Remote)*  
+- 👨‍💻 **AI Engineer** – NVSSoft *(Riyadh)*  
+- 📊 **Data Scientist Intern** – Darrebni *(Remote)*  
+- 🛠️ Freelance AI Projects – *Freelancer.com*
 
 ---
 
-### 📬 Get in Touch
+## ⚙️ Tech Toolbox
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-faour-052b20168)
-- 📩 Email: **ahmadfaour928@gmail.com**
-- 📝 [Articles on LinkedIn](https://www.linkedin.com/in/ahmad-faour-052b20168)
+Languages:     Python, JavaScript, C#, SQL, MATLAB
+Frameworks:    TensorFlow, PyTorch, ASP.NET, Flask, React, Django
+Databases:     PostgreSQL, MongoDB, MySQL, SQL Server
+Tools:         Docker, VS Code, Jupyter, Git, Firebase, PythonAnywhere
+Concepts:      MLOps, Model Optimization, NLP, CV, LLMs, Cloud AI
+🏆 Notable Projects
+🔊 AI Assistant with Dialect Recognition
+Live Whisper v3 + MARBERTv2 pipeline for speech-to-text and dialect classification.
 
----
+Real-time inference via Flask + React. Demo
 
-### 🌐 Find Me Online
+✍ Arabic Handwriting Recognition
+Deployed model via ONNX + Flask achieving 85% accuracy on handwritten Arabic characters.
 
-<p align="left">
-  <a href="https://linkedin.com/in/ahmad-faour-052b20168" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/ahmoodyfaour" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/ahmadfaourabusaleh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://dribbble.com/ahmad_faour9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/ahmad faour" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/ahmad_faour" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ahmadfaour" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
+🧾 AI Verification System for Medical Prescriptions
+GAN + CRNN system with 92% accuracy. Validates cardiologist prescriptions with seal detection.
 
----
+🧠 AI-Powered HR Matchmaking Platform
+Built with NLP, KNN, and Django. Achieved 98% resume-job match accuracy using Kaggle datasets.
 
-### 🏆 GitHub Stats
+🎓 Education & Certifications
+🎓 B.Sc. in IT Engineering
+University of Kalamoon – Second in Class
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadfaour9&theme=gruvbox&no-frame=true" alt="Trophies" />
-  </a>
-</p>
+📜 Generative AI with LLMs – AWS + Coursera
+Learned: LoRA, Prompt Tuning, Dialogue Summarization, RLHF
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadfaour9&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+📈 Data Science & AI Projects – Freelance + Internship Labs
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadfaour9" alt="GitHub Streak" />
-</p>
+🔥 My GitHub at a Glance
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadfaour9&theme=algolia" alt="Streak Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=ahmadfaour9&show_icons=true&theme=algolia" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfaour9&layout=compact&theme=algolia" alt="Top Languages" /> </p>
+📬 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/ahmad-faour-052b20168"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a> <a href="mailto:ahmad.saleh.faour@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge"></a> <a href="https://www.leetcode.com/ahmadfaour"><img src="https://img.shields.io/badge/Leetcode-Practice-orange?logo=leetcode&style=for-the-badge"></a> <a href="https://www.kaggle.com/ahmoodyfaour"><img src="https://img.shields.io/badge/Kaggle-Competitions-blue?logo=kaggle&style=for-the-badge"></a> </p>
+⚡ Fun Fact
+🧠 I don’t just build AI—I teach it to think creatively.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadfaour9&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> *"I'm always learning — not just to code better, but to live better. Curiosity keeps me moving!"*
-
----
-
+💬 "Let’s connect if you're working on something amazing, or just want to geek out about AI!"
