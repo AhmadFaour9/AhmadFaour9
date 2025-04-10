@@ -114,9 +114,12 @@ University of Kalamoon — Graduated **2<sup>nd</sup> in Class**
   <!-- Stats Cards Row -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&theme=vision-friendly-dark" alt="Ahmad's GitHub Stats" />
-<a href="https://streak-stats.demolab.com?user=AhmadFaour9">
-  <img src="https://streak-stats.demolab.com/?user=AhmadFaour9&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmad's GitHub Streak"/>
-</a>  </div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AhmadFaour9&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmad's GitHub Streak" />
+</p>
+  </div>
 
   <!-- Top Languages Chart -->
   <img src="https://pfst.cf2.poecdn.net/base/image/6b89bb0a72910ef485554e541942dfd0fbb8be2a1f29eb1172b032576b722d50?pmaid=343433383" alt="Top Languages Chart" width="100%" />
