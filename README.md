@@ -107,12 +107,19 @@ University of Kalamoon — Graduated **2<sup>nd</sup> in Class**
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://pfst.cf2.poecdn.net/base/image/c43039c0f240317054e0c42382c652e85e2cbb004a3c6364d0d64df3eb4cc805?pmaid=343433332" width="95%">
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&theme=vision-friendly-dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadFaour9&theme=vision-friendly-dark">
-  <br/><br/>
-  <img src="https://pfst.cf2.poecdn.net/base/image/6b89bb0a72910ef485554e541942dfd0fbb8be2a1f29eb1172b032576b722d50?pmaid=343433383" width="95%">
+
+  <!-- Contribution Activity Chart -->
+  <img src="https://pfst.cf2.poecdn.net/base/image/c43039c0f240317054e0c42382c652e85e2cbb004a3c6364d0d64df3eb4cc805?pmaid=343433332" alt="GitHub Activity Graph" width="100%" style="margin-bottom: 20px;" />
+
+  <!-- Stats Cards Row -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&theme=vision-friendly-dark" alt="Ahmad's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadFaour9&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
+  </div>
+
+  <!-- Top Languages Chart -->
+  <img src="https://pfst.cf2.poecdn.net/base/image/6b89bb0a72910ef485554e541942dfd0fbb8be2a1f29eb1172b032576b722d50?pmaid=343433383" alt="Top Languages Chart" width="100%" />
+
 </div>
 
 ---
