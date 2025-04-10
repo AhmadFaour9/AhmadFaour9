@@ -92,7 +92,7 @@ DevOps: GitHub Actions | CircleCI | Jenkins | Terraform
 ## 🎓 Academic Excellence
 
 **B.Sc in IT Engineering**  
-University of Kalamoon | 2<sub>nd</sub> 
+University of Kalamoon | 2<sup>nd</sup> 
 Thesis: Optimizing Arabic NLP Models Using Hybrid Architecture  
 ▪ Published in IEEE ArabicNLP 2023  
 ▪ Developed custom attention mechanism (↑ 18% accuracy)
