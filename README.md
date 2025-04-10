@@ -91,11 +91,11 @@ DevOps: GitHub Actions | CircleCI | Jenkins | Terraform
 
 ## 🎓 Academic Excellence
 
-**B.Sc in IT Engineering**  
-University of Kalamoon | 2<sup>nd</sup> 
-Thesis: Optimizing Arabic NLP Models Using Hybrid Architecture  
+**B.Sc. in IT Engineering**  
+University of Kalamoon — Graduated **2<sup>nd</sup> in Class**  
+**Thesis:** *Optimizing Arabic NLP Models Using Hybrid Architecture*  
 ▪ Published in IEEE ArabicNLP 2023  
-▪ Developed custom attention mechanism (↑ 18% accuracy)
+▪ Developed a novel attention mechanism that improved accuracy by 18%
 
 **Certifications**  
 - AWS Certified Machine Learning - Specialty  
