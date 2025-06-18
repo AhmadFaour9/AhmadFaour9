@@ -71,19 +71,19 @@ DevOps: GitHub Actions | CircleCI | Jenkins | Terraform
 ## 💼 Professional Journey
 
 **🧠 AI Engineer** @ Reality AI Lab (Remote)  
-2023 - Present  
+Dec-2024 - Present  
 ▪ Architected LLM pipeline reducing inference costs by 35%  
 ▪ Implemented CI/CD for ML models with 99.8% deployment success rate  
 ▪ Tools: PyTorch, ONNX, SageMaker, LangChain
 
-**🛠️ Lead AI Developer** @ NVSSoft (Riyadh)  
-2022 - 2023  
+**🛠️ AI Engineer** @ NVSSoft (Riyadh)  
+Dec-2024  - Present
 ▪ Built Arabic NLP toolkit with 87% F1-score  
 ▪ Automated MLOps, reduced model iteration time by 60%  
 ▪ Tools: TensorFlow, Vertex AI, Kubernetes
 
-**📈 Data Scientist Lead** @ Darrebni (Remote)  
-2021 - 2022  
+**📈 Data Scientist ** @ Darrebni (Remote)  
+Oct-2024 - Dec-2024
 ▪ Predictive analytics system increased ROI by 22%  
 ▪ Tools: Scikit-learn, PySpark, Tableau
 
@@ -94,7 +94,6 @@ DevOps: GitHub Actions | CircleCI | Jenkins | Terraform
 **B.Sc. in IT Engineering**  
 University of Kalamoon — Graduated **2<sup>nd</sup> in Class**  
 **Thesis:** *Optimizing Arabic NLP Models Using Hybrid Architecture*  
-▪ Published in IEEE ArabicNLP 2023  
 ▪ Developed a novel attention mechanism that improved accuracy by 18%
 
 **Certifications**  
