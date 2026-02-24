@@ -1,162 +1,175 @@
-<h1 align="center">🚀 Ahmad Faour | AI Solutions Architect & Full-Stack Engineer</h1>
+<!--
+  Ahmad Faour — GitHub Profile README
+  Clean • Professional • Production-focused
+-->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-faour-052b20168/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ahmadfaour928@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://ahmadsalehfaour.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://github.com/AhmadFaour9?tab=repositories"><img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:22c55e&text=Ahmad%20Faour&fontColor=ffffff&fontSize=54&fontAlignY=35&desc=Senior%20AI%20Engineer%20%7C%20LLM%20Systems%20Architect%20%7C%20AI%20%2B%20.NET%20%2B%20Cloud&descAlignY=60&descSize=16"
+    alt="header"
+  />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=MLOps+Specialist+%7C+Generative+AI+%7C+Cloud-Native+Solutions+%7C+Production-Grade+Deployments;5%2B+Years+Engineering+Experience+%7C+Top+2%25+IT+Graduate+%7C+AWS+Certified+LLM+Expert;Building+Intelligent+Systems+That+Learn%2C+Adapt%2C+and+Evolve">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-faour-052b20168/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmad.saleh.faour@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ahmadsalehfaour.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/AhmadFaour9?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Production-grade+LLM+%26+RAG+systems;Agentic+workflows+%7C+Tool-calling+%7C+Human-in-the-loop;AI+microservices+with+ASP.NET+Core+%2B+Python;Cloud+deployments+on+AWS+%26+GCP+with+CI%2FCD+%26+Observability"
+    alt="typing"
+  />
+</p>
 
 ---
 
-## 🔧 Technical Arsenal
+## Overview
 
-### 🤖 AI/ML Stack
-<table align="center">
+I build **production AI systems** end-to-end — from data and model work to secure APIs, cloud deployment, and monitoring.
+
+- 📍 Riyadh, Saudi Arabia  
+- 🧠 Focus: **LLMs • RAG • Agents • Evaluation • Optimization**  
+- 🧩 Strong bridge between **Python ML stacks** and **.NET enterprise backends**  
+- ☁️ Deployments: **AWS / GCP / IIS** + CI/CD + observability
+
+---
+
+## What I Deliver
+
+<table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48">
-      <br><strong>PyTorch</strong>
-      <br>LLM Fine-Tuning
+    <td width="25%" valign="top">
+      <b>LLM & RAG Platforms</b><br/>
+      Retrieval + reranking, structured outputs, evaluation (RAGAS + rubric), multilingual UX (EN/AR).
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48">
-      <br><strong>TensorFlow</strong>
-      <br>Production Models
+    <td width="25%" valign="top">
+      <b>Agentic Systems</b><br/>
+      Tool use, planner/executor, memory, retries, approvals (human-in-the-loop).
     </td>
-    <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48">
-      <br><strong>Keras</strong>
-      <br>Rapid Prototyping
+    <td width="25%" valign="top">
+      <b>Production APIs</b><br/>
+      ASP.NET Core + Python inference services, JWT/OAuth2, clean architecture, real-time interactions.
     </td>
-    <td align="center" width="110">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48">
-      <br><strong>HuggingFace</strong>
-      <br>Transformers
+    <td width="25%" valign="top">
+      <b>Optimization & Deployment</b><br/>
+      Quantization, ONNX export, latency/cost tuning, Docker/K8s, Cloud Run/SageMaker, monitoring.
     </td>
   </tr>
 </table>
 
-### ☁️ Cloud Infrastructure
-```bash
-AWS Stack: SageMaker | Lambda | EC2 | S3 | IAM 
-GCP Stack: Vertex AI | Cloud Functions | BigQuery | GKE
-MLOps Tools: MLflow | Kubeflow | Airflow | TFX
-Containerization: Docker | Kubernetes | Helm
-```
-
-### 💻 Full-Stack Development
-```bash
-Frontend: React (Next.js) | Redux | TypeScript | Three.js
-Backend: Node.js | Django | Flask | ASP.NET Core
-Databases: PostgreSQL | MongoDB | FaunaDB | Redis
-DevOps: GitHub Actions | CircleCI | Jenkins | Terraform
-```
-
 ---
 
-## 🏆 Flagship Projects
-
-| Project | Tech Stack | Key Achievements | Live Demo |
-|---------|------------|------------------|-----------|
-| **SpeechGuardian** | Whisper v3, MARBERTv2, WebRTC | 93% accuracy across 5 Arabic dialects | 🌐 Demo |
-| **MediCheck AI** | GANs, CRNN, OpenCV | Reduced prescription errors by 40% in clinical trials | 📱 Preview |
-| **TalentForge** | BERT, KNN, ElasticSearch | 98% match accuracy on Kaggle datasets | 📊 Dashboard |
-
----
-
-## 💼 Professional Journey
-
-**🧠 AI Engineer** @ Reality AI Lab (Remote)  
-Dec-2024 - Present  
-▪ Architected LLM pipeline reducing inference costs by 35%  
-▪ Implemented CI/CD for ML models with 99.8% deployment success rate  
-▪ Tools: PyTorch, ONNX, SageMaker, LangChain
-
-**🛠️ AI Engineer** @ NVSSoft (Riyadh)  
-Dec-2024  - Present
-▪ Built Arabic NLP toolkit with 87% F1-score  
-▪ Automated MLOps, reduced model iteration time by 60%  
-▪ Tools: TensorFlow, Vertex AI, Kubernetes
-
-**📈 Data Scientist ** @ Darrebni (Remote)  
-Oct-2024 - Dec-2024
-▪ Predictive analytics system increased ROI by 22%  
-▪ Tools: Scikit-learn, PySpark, Tableau
-
----
-
-## 🎓 Academic Excellence
-
-**B.Sc. in IT Engineering**  
-University of Kalamoon — Graduated **2<sup>nd</sup> in Class**  
-**Thesis:** *Optimizing Arabic NLP Models Using Hybrid Architecture*  
-▪ Developed a novel attention mechanism that improved accuracy by 18%
-
-**Certifications**  
-- AWS Certified Machine Learning - Specialty  
-- Google Professional Data Engineer  
-- DeepLearning.AI NLP Specialization  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <!-- Contribution Activity Chart -->
-  <img src="https://pfst.cf2.poecdn.net/base/image/c43039c0f240317054e0c42382c652e85e2cbb004a3c6364d0d64df3eb4cc805?pmaid=343433332" alt="GitHub Activity Graph" width="100%" style="margin-bottom: 20px;" />
-
-  <!-- Stats Cards Row -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&theme=vision-friendly-dark" alt="Ahmad's GitHub Stats" />
-
-
-
-  <img src="https://streak-stats.demolab.com/?user=AhmadFaour9&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmad's GitHub Streak" />
-
-  </div>
-
-  <!-- Top Languages Chart -->
-  <img src="https://pfst.cf2.poecdn.net/base/image/6b89bb0a72910ef485554e541942dfd0fbb8be2a1f29eb1172b032576b722d50?pmaid=343433383" alt="Top Languages Chart" width="100%" />
-
-</div>
-
----
-
-## 💡 Philosophical Approach
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.motto = "Build systems that learn, not just execute"
-
-    def develop(self):
-        while True:
-            self.research()
-            self.optimize()
-            self.deploy()
-
-    def research(self):
-        explore(arxiv_papers=True)
-        experiment(novel_architectures=True)
-
-    def optimize(self):
-        apply(quantization=True)
-        implement(distributed_training=True)
-
-    def deploy(self):
-        containerize(with='Docker')
-        monitor(using='Prometheus+Grafana')
-```
-
----
+## Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmadFaour9&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet">
-  <br>
-  <em>"Let's connect to build the next generation of intelligent systems!"</em> 📡
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,cs,dotnet,react,ts,nodejs,postgres,mongodb,redis,docker,kubernetes,aws,gcp,githubactions&perline=9"
+    alt="skills"
+  />
+</p>
+
+<details>
+  <summary><b>Stack details</b></summary>
+
+- **LLM/RAG:** Transformers, LangChain, embeddings, chunking, reranking (cross-encoder), evaluation (RAGAS / human rubric), JSON Schema outputs  
+- **Vector DBs:** ChromaDB, FAISS, Pinecone, Weaviate  
+- **Orchestration:** n8n, Elsa Workflows (webhooks, schedulers, retries, approvals)  
+- **Backend:** FastAPI/Flask, ASP.NET Core, EF Core, REST, WebSockets  
+- **MLOps/DevOps:** Docker, Kubernetes, CI/CD, MLflow/W&B, Airflow/Prefect (as needed)  
+- **Security:** JWT, OAuth2, secrets management  
+- **Observability:** OpenTelemetry, Prometheus, Grafana (basic)  
+
+</details>
+
+---
+
+## Featured Projects
+
+> Below are highlights aligned with real production work: automation rates, latency targets, and optimization metrics.
+
+| Project | What it is | Proof of impact | Stack |
+|---|---|---:|---|
+| **NexusAI** | Enterprise customer experience automation platform (intent + RAG) | **60–80%** inquiry automation | Next.js, Node.js, Cloud Run, Vertex AI (Gemini), Firestore, BigQuery |
+| **AI Research Intelligence Agent** | GraphRAG research system + “paper → code” generation + claim verification | Forensic paper analysis + modular code output | Python, ChromaDB, Streamlit, Docling/PyMuPDF, OpenAI/Anthropic/Gemini/Ollama |
+| **Dialect-Aware Voice Assistant** | Whisper v3 + Arabic dialect classifier + low-latency pipeline | **Sub-500ms** for short utterances + **+12% F1** | Whisper, MARBERTv2, Flask, React, WebSockets, n8n/Elsa |
+| **Arabic Handwriting Recognition** | Quantized + ONNX export + deployment | **-59%** size + **2.3×** CPU speedup | TensorFlow, Flask, ONNX, PythonAnywhere |
+| **Cardiac Prescription Recognition** | Multitask OCR with verification | **-35%** interpretation errors | GAN, CRNN, CTC loss, multitask learning |
+
+<details>
+
+- NexusAI — Demo: ([here](https://chatbot-frontend-aljdeea7va-uc.a.run.app/)) · Repo: ([here](https://github.com/ahmadfaour/nexus-ai))  
+- AI Research Intelligence Agent — Repo: ([here](https://github.com/AhmadFaour9/AI-Research-Intelligence-Agent))  
+- Voice Assistant — Repo: ([here](https://github.com/AhmadFaour9/AIVoiceAsisstent))  
+- Arabic Handwriting Recognition — Demo: ([here](https://ahmadfaour9.github.io/LearnWithUs/)) · Repo: ([here](https://github.com/AhmadFaour9/LearnWithUs))  
+- Prescription Recognition — Repo: (add)  
+
+</details>
+
+---
+
+## Experience
+
+- **AI Engineer — NVSSoft (Riyadh)** *(Dec 2024 – Present)*  
+  Secure ASP.NET Core APIs + Python inference microservices · IIS production setup · CI/CD collaboration · React front-end · Agent workflows with n8n/Elsa.
+
+- **AI Training & Model Evaluation Specialist — micro1 (Remote)** *(Dec 2025 – Present)*  
+  LLM evaluation rubrics (helpfulness/correctness/safety/style) · RLHF/RLAIF-style workflow support · calibration to reduce variance.
+
+- **AI Engineer — Reality AI Lab (Remote)** *(Dec 2024 – Dec 2025)*  
+  Training/fine-tuning pipelines for a generative image model · augmentation and custom evaluation metrics.
+
+- **Data Scientist Intern — Darrebni (Remote)** *(Sep 2024 – Feb 2025)*  
+  Predictive modeling + SQL analytics pipelines · Tableau dashboards · insights integration with workflows.
+
+---
+
+## Education & Certifications
+
+- **M.Sc. Artificial Intelligence — University of Hull** *(Sep 2025 – Present)*  
+- **B.Sc. IT Engineering — University of Kalamoon** *(Aug 2018 – Feb 2024)* · **2nd in class**
+
+<details>
+  <summary><b>Recent certifications</b></summary>
+
+- Develop AI-Powered Prototypes in Google AI Studio (Feb 2026)  
+- micro1 — AI Software Engineer (Oct 2025)  
+- Generative AI with Large Language Models (Coursera/AWS, Oct 2024)  
+- Introduction to Retrieval Augmented Generation (Duke/Coursera, Dec 2024)  
+
+</details>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmadFaour9&show_icons=true&hide_border=true" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AhmadFaour9&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadFaour9&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ahmad-faour-052b20168/  
+- Email: ahmad.saleh.faour@gmail.com  
+- Portfolio: https://ahmadsalehfaour.github.io/Portfolio/
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:22c55e&section=footer" alt="footer" />
 </p>
